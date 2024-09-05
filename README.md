@@ -1,16 +1,24 @@
 # Build a Salon Appointment Scheduler
 
-[Proyecto requisito obligatorio número 3](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler) el cual es requisito obligatorio para obtener la Relational Database Certification de freecodecamp.
+[Proyecto requisito obligatorio número 3](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler) necesario para obtener la [Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/) de freecodecamp.
 
 En resumen, el proyecto consiste en utilizar comandos avanzados de **Bash** para insertar registros en una base de datos PostgreSQL, específicamente, insertar registros en las tablas **customers**, **appointments** y **services**. Además, para aprobar se requiere crear un repositorio el cual incluya los archivos **salon.sql** (el cual es el dump de la base de datos) y el archivo **salon.sh** (el cual contiene el script bash).
 
 ## Tabla de Contenidos
 
-## Instrucciones
+- [Build a Salon Appointment Scheduler](#build-a-salon-appointment-scheduler)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Instrucciones and All User Stories passed](#instrucciones-and-all-user-stories-passed)
+  - [Proyecto aprobado](#proyecto-aprobado)
+  - [Script Bash](#script-bash)
 
-![Instrucciones](./instrucciones.webp)
+## Instrucciones and All User Stories passed
 
-## Passed
+![Instrucciones](./screenshots/instrucciones.webp)
+
+## Proyecto aprobado
+
+![Proyecto aprobado](./screenshots/passed.webp)
 
 ## Script Bash
 
